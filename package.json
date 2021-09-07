@@ -1,0 +1,19 @@
+{
+  "name": "donglin_",
+  "version": "1.0.0",
+  "description": "看看npm是怎么操作的",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "donglin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "text-demo100": "^1.0.0"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
